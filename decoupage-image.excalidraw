@@ -1930,7 +1930,7 @@
       "type": "rectangle",
       "x": 1376.9697834547248,
       "y": 590.9368634094706,
-      "width": 189.6570385103084,
+      "width": 257.62280792812885,
       "height": 35,
       "angle": 0,
       "strokeColor": "#2f9e44",
@@ -1947,8 +1947,8 @@
         "type": 3
       },
       "seed": 1829675447,
-      "version": 254,
-      "versionNonce": 1962720183,
+      "version": 293,
+      "versionNonce": 771677463,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1960,16 +1960,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1759180341392,
+      "updated": 1759184097911,
       "link": null,
       "locked": false
     },
     {
       "id": "UBwqG2cOv6jKzZizXS6g2",
       "type": "text",
-      "x": 1385.408364355387,
+      "x": 1390.4812835491603,
       "y": 595.9368634094706,
-      "width": 172.77987670898438,
+      "width": 230.5998077392578,
       "height": 25,
       "angle": 0,
       "strokeColor": "#2f9e44",
@@ -1984,20 +1984,20 @@
       "index": "b0U",
       "roundness": null,
       "seed": 1012880087,
-      "version": 238,
-      "versionNonce": 326773975,
+      "version": 293,
+      "versionNonce": 245220183,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1759180341392,
+      "updated": 1759184097911,
       "link": null,
       "locked": false,
-      "text": "presentation__h3",
+      "text": "presentation__synopsis",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "DFB2sG2E76vTc8-5TCZKV",
-      "originalText": "presentation__h3",
+      "originalText": "presentation__synopsis",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -2006,8 +2006,8 @@
       "type": "arrow",
       "x": 1188.1828856803575,
       "y": 594.3916470342788,
-      "width": 173.27004840919426,
-      "height": 17.024110738526133,
+      "width": 173.6607922619828,
+      "height": 15.94389862373282,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
@@ -2023,11 +2023,11 @@
         "type": 2
       },
       "seed": 697280249,
-      "version": 171,
-      "versionNonce": 1828736247,
+      "version": 212,
+      "versionNonce": 820517271,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1759180355960,
+      "updated": 1759184097944,
       "link": null,
       "locked": false,
       "points": [
@@ -2036,8 +2036,8 @@
           0
         ],
         [
-          173.27004840919426,
-          17.024110738526133
+          173.6607922619828,
+          15.94389862373282
         ]
       ],
       "lastCommittedPoint": null,

@@ -1,0 +1,86 @@
+@import url(https://fonts.bunny.net/css?family=oswald:200,400,700);
+
+:root {
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px ;
+    font-weight: 200;
+    max-width: 800px;
+    margin: 0 auto;
+
+    --color-primary: #fff;
+    --color-secondary: #8b0000;
+    --color-link: #900e0e;
+    --back-color: #eee;
+}
+
+.header {
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.titre {
+    height: 80px;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    position: relative;
+}
+
+.titre__serie {
+    background-color: #000;
+    color: var(--color-primary);
+    font-weight:400;
+    font-size: 1rem;
+    padding: 4px 12px;
+    position: absolute;
+    top: 50%;
+    right: 28%;
+}
+
+.container {}
+
+.presentation {}
+
+.presentation__titre {}
+
+.presentation__logo {}
+
+.presentation__text {}
+
+.presentation__modifie {}
+
+.presentation__synopsis {}
+
+.presentation__ {}
+
+.actors {}
+
+.actors__titre {}
+
+.actors__list {}
+
+.actors__list-item {}
+
+.image-serie {}
+
+.image-serie__titre {}
+
+.image-serie_img {}
+
+.image-serie__subtitle {}
+
+.image-serie__text {}
+
+.footer {
+    background-color: var(--back-color);
+    width: 80%;
+    height: 80px;
+    text-align: center;
+}
+
+.footer__text {
+    padding: 20px;
+}
